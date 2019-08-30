@@ -4,7 +4,7 @@
 #
 Name     : mvn-commons-csv
 Version  : 1.0
-Release  : 1
+Release  : 2
 URL      : https://repo1.maven.org/maven2/org/apache/commons/commons-csv/1.0/commons-csv-1.0.jar
 Source0  : https://repo1.maven.org/maven2/org/apache/commons/commons-csv/1.0/commons-csv-1.0.jar
 Source1  : https://repo1.maven.org/maven2/org/apache/commons/commons-csv/1.0/commons-csv-1.0.pom
